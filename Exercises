@@ -101,6 +101,8 @@ else
 }
 }
 quadrate(5,-13,6);
+quadrate(2,6,1);
+quadrate(1,-5,2);
 
 //Exercise 4
 Given the following code rewrite it using only two if operators. (Hint: use logical
